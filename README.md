@@ -51,17 +51,17 @@ Voce pode adicionar, excluir e alteara eventos alem de consultar o calendário.
 As seguintes pessoas contribuiram para este projeto:
 
 <ul>
- <li><a href="https://github.com/CaiqueRamos">Caique Gabriel Ramos S.</a>- RGA: 201919020446
+ <li><a href="https://github.com/CaiqueRamos">Caique Gabriel Ramos S.</a> - RGA: 201919020446
 
- <li><a href="https://github.com/gustacoutinho">Gustavo coutinho</a>- RGA: 201919020160</li>
+ <li><a href="https://github.com/gustacoutinho">Gustavo coutinho</a> - RGA: 201919020160</li>
 
- <li><a href="https://github.com/felipechulli">Felipe chulli</a>- RGA: 201519070209</li>
+ <li><a href="https://github.com/felipechulli">Felipe chulli</a> - RGA: 201519070209</li>
 
- <li><a href="https://github.com/gusnvs">Gustavo neves</a>- RGA: 201819070486</li>
+ <li><a href="https://github.com/gusnvs">Gustavo neves</a> - RGA: 201819070486</li>
 
  <li><a href="https://github.com/LipeOM">Luiz Felipe O. Martins</a>- RGA: 201919020136</li>
 </ul>
 
 ## Licença de uso
 
-Este projeto usa a seguinte licença:<a href="https://choosealicense.com/licenses/mit"> MIT License</a>
+Este projeto usa a seguinte licença: <a href="https://choosealicense.com/licenses/mit">MIT License</a>
