@@ -1,12 +1,12 @@
-# Calendario Consul
+# Calendário Consul
 
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
 ![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
 
-Nome_da_Aplicação é um/uma ... que permite/tem por objetivo/visa/etc .... 
+Calendário Consul é um calendário que permite ser consultado e criar eventos que tem o obejtivo de ajudar as pessoas com seus agendamentos. 
 
-Coloque aqui linhas adicionais com informações sobre o que a aplicação faz. Sua introdução deve ser de no máximo 3 parágrafos, seja simples e objetivo para não sobrecarregar de detalhes desnecessários este espaço. Se necessário, crie novas seções abaixo.
+O calendário pode ser consultado, e tanbem pode adicionar, excluir e alterar eventos.
 
 ## Pré-requisitos
 
@@ -34,9 +34,9 @@ Windows (opcional):
 <commandos>
 ```
 
-## Usando Calendario Consul
+## Usando Calendário Consul
 
-Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
+Para usar Calendário Consul, siga os seguintes passos (exemplos):
 
 * Abra o navegador e digite o seguinte endereço: `http://localhost/....`
 * Ao abrir a aplicação você poderá:
@@ -44,7 +44,7 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
   * Entrar com usuário e senha para ....
 * *Continua ...*  
 
-*Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
+Voce pode adicionar, excluir e alteara eventos alem de consultar o calendário.
 
 ## Contribuidores
 
@@ -64,4 +64,4 @@ As seguintes pessoas contribuiram para este projeto:
 
 ## Licença de uso
 
-Este projeto usa a seguinte licença:<a href="https://choosealicense.com/licenses/mit> MIT License</a>
+Este projeto usa a seguinte licença:<a href="https://choosealicense.com/licenses/mit"> MIT License</a>
