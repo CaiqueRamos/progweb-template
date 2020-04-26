@@ -4,9 +4,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
 ![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
 
-Calendário Consul é um calendário que permite ser consultado e criar eventos que tem o obejtivo de ajudar as pessoas com seus agendamentos. 
+Calendário Consul é um calendário que permite ser consultado e criar eventos que tem o objetivo de ajudar as pessoas com seus agendamentos. 
 
-O calendário pode ser consultado, e tanbem pode adicionar, excluir e alterar eventos.
+O calendário pode ser consultado além disso ele pode adicionar, excluir e alterar eventos.
 
 ## Pré-requisitos
 
@@ -44,7 +44,7 @@ Para usar Calendário Consul, siga os seguintes passos (exemplos):
   * Entrar com usuário e senha para ....
 * *Continua ...*  
 
-Voce pode adicionar, excluir e alteara eventos alem de consultar o calendário.
+O calendário poderá ser consultado e coso necessite poderar adicionar, excluir e alterar eventos.
 
 ## Contribuidores
 
@@ -53,13 +53,13 @@ As seguintes pessoas contribuiram para este projeto:
 <ul>
  <li><a href="https://github.com/CaiqueRamos">Caique Gabriel Ramos S.</a> - RGA: 201919020446
 
- <li><a href="https://github.com/gustacoutinho">Gustavo coutinho</a> - RGA: 201919020160</li>
+ <li><a href="https://github.com/gustacoutinho">Gustavo Coutinho</a> - RGA: 201919020160</li>
 
- <li><a href="https://github.com/felipechulli">Felipe chulli</a> - RGA: 201519070209</li>
+ <li><a href="https://github.com/felipechulli">Felipe Chulli</a> - RGA: 201519070209</li>
 
- <li><a href="https://github.com/gusnvs">Gustavo neves</a> - RGA: 201819070486</li>
+ <li><a href="https://github.com/gusnvs">Gustavo Neves</a> - RGA: 201819070486</li>
 
- <li><a href="https://github.com/LipeOM">Luiz Felipe O. Martins</a>- RGA: 201919020136</li>
+ <li><a href="https://github.com/LipeOM">Luiz Felipe O. Martins</a> - RGA: 201919020136</li>
 </ul>
 
 ## Licença de uso
