@@ -1,6 +1,7 @@
 Product backlog.
 
-= High Priority = 
+= High Priority =
+
 01 - O cliente poderá visualizar um calendário completo e multifuncional para o seu melhor manuseio.
 
 02 - O clinete poderá pesquisar por uma determinada data, tanto uma data oficial quanto eventos adicionados.
