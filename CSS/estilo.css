@@ -84,29 +84,10 @@ body{
 	color: #fff;
 }
 
-.eventos-tag{
-	background-color: #dfe6e9;
-}
 
 .eventos{
-	background-color: #fff;
-	box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.2);
-	margin: auto;
-	width: 600px;
-	height: 180px;
-	border: solid 3px #FF8000;
+	display: flex;
+	width: 100vw;
+	height: 70vh;
+	background-color: #dfe6e9;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
