@@ -6,6 +6,7 @@
 body{
 	margin: 0;
 	font-family: "Arial", "Helvetica", "sans-serif";
+	background-color: #dfe6e9;
 }
 
 #mes-topo{
@@ -84,6 +85,32 @@ body{
 	color: #fff;
 }
 
+.evento{
+	background-color: #0A82B8;
+	color: #FFFFFF;
+}
+
+#bSalvar{
+	font-family:arial;
+	text-transform: uppercase;
+	cursor: pointer;
+	box-shadow: 1px 2px 1px;
+	font-weight: bold;
+	border-radius: 7px;
+}
+#bSalvar:hover{
+	background-color: #FF8000;
+}
+#bSalvar:active{
+	position: relative;
+	top:2px;
+	box-shadow: none;
+	
+}
+#event{
+	position: absolute;
+	text-align: center;
+}
 
 .eventos{
 	display: flex;
@@ -91,3 +118,94 @@ body{
 	height: 70vh;
 	background-color: #dfe6e9;
 }
+.fundoADD{
+	font-size: 18px;
+	font-family: sans-serif;
+	background-color: #dfe6e9;
+	text-align: center;
+}
+
+#cssEventosCadastrados{
+	margin: auto;
+	width: 600px;
+	background-color: #fff;
+	border: solid red 1px;
+}
+
+#addEvento{
+	list-style: none;
+	margin-left: 50px;
+	margin-bottom: 19px;
+	margin-top: 8px;
+}
+#addEvento li{
+	display: inline;
+	
+}
+#descricao1{
+	padding-left: 20px;
+}
+#salvar{
+	padding-right: 80px;
+}
+
+
+.event{
+	padding-bottom: 30px;
+	padding-top: 30px;
+
+}
+
+#tabelaDeDados{
+	padding-left: 457px;
+	padding-bottom: 30px;
+	padding-top: 40px;
+}
+th{
+	padding-right: 120px;
+	position: inherit;
+	text-align: center;
+	
+}
+.hojeEvento{
+	background-color: #1CFF00;
+	color: #FFFFFF;
+}
+
+.quadradoVerde {
+  	margin-left: 10px;
+  	background-color: #1CFF00;
+  	height: 20px;
+	width: 20px;
+	border: 1px solid black;
+}
+
+.tituloLegenda{
+	padding-top: 30px;
+	font-size: 1.5em;
+	text-align: center;
+}
+.legenda {
+	padding-left: 457px;
+	padding-bottom: 0px;
+	padding-top: 20px;
+	font-size: 1.2em;
+	display: flex;
+}
+
+.quadradoLaranja{
+	margin-left: 10px;
+  	background-color: #FF8000;
+  	height: 20px;
+	width: 20px;
+	border: 1px solid black;
+}
+
+.quadradoAzul{
+	margin-left: 10px;
+  	background-color: #0A82B8;
+  	height: 20px;
+	width: 20px;
+	border: 1px solid black;
+}
+
